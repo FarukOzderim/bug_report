@@ -29,7 +29,7 @@ body:
       description: "Please include a screenshot as it makes it much more clear"
       render: shell
   - type: textarea
-    id: logs
+    id: screenshot
     attributes:
       label: Logs
       description: "Please include the logs if you can. You can get the logs with debug=True, ie: gradio.Interface.launch(debug=True)"
